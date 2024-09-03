@@ -3,7 +3,9 @@ meme_dict = {
             "LOL": "Komik bir şeye verilen cevap",
             "ROFL" : "bir şakaya karşılık cevap",
             "SHEESH" : "onaylamamak",
-            "SKIBIDI": "kötücül,şeytani"
+            "SKIBIDI": "kötücül,şeytani",
+            "SICK" : "havalı" ,
+            "DUDE" : "kardeşim"
             }
             
 word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!): ")
